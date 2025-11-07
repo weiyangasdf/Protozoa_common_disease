@@ -1,0 +1,14 @@
+Location	prozotoa_group	Location_count	Location_prozotoa_rate	name
+Fujian	prozotoa	363	0.402203857	福建
+Guangdong	prozotoa	1793	0.793641941	广东
+Hainan	prozotoa	156	0.487179487	海南
+Hebei	prozotoa	123	0.447154472	河北
+HuBei	prozotoa	78	0.987179487	湖北
+Jiangsu	prozotoa	351	0.86039886	江苏
+Liaoning	prozotoa	153	0.816993464	辽宁
+Shannxi	prozotoa	168	0.797619048	陕西
+Zhejiang	prozotoa	231	0.748917749	浙江
+Beijing	prozotoa	1700	0.687647059	北京
+Hongkong	prozotoa	865	0.665895954	香港
+Chongqing	prozotoa	209	0.918660287	重庆
+Shanghai	prozotoa	779	0.589216945	上海
